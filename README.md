@@ -12,16 +12,10 @@ The dataset used in this analysis contains historical stock price data, includin
 DATA FIELDS ->
 
 Date: Date of the stock trading session
-
 Open: Opening price of the stock
-
 High: Highest price of the stock during the session
-
 Low: Lowest price of the stock during the session
-
 Close: Closing price of the stock
-
 Adj Close: Adjusted closing price of the stock
-
 Volume: Trading volume of the stock
 
