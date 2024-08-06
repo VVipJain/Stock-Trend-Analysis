@@ -53,7 +53,7 @@ We use matplotlib and seaborn libraries to create interactive visualizations. So
 
 ![image](https://github.com/user-attachments/assets/db44c24d-0ea8-4c68-aec8-920a525d77d4)
 ![image](https://github.com/user-attachments/assets/5f3e8955-a268-42ec-853c-80fdbed632d4)
-![image](https://github.com/user-attachments/assets/f603e827-86cb-4da4-a69d-d469bf20f5ed)
+![image](https://github.com/user-attachments/assets/22f473b2-216e-43a1-bd46-5614986f30d0)
 ![image](https://github.com/user-attachments/assets/08b1238b-f9a2-44ca-bc87-3ff68ae219bc)
 
 
